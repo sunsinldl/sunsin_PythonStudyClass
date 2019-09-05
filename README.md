@@ -1,1 +1,2 @@
 # sunsin_PythonStudyClass
+该仓库是用于存储sunsinldl在学习Python时的工作目录
